@@ -1,0 +1,89 @@
+Frontend web development foundation
+
+
+What kind of class ?
+
+WEB Development
+
+
+- create website
+website ( facebook , yt )
+
+hardware , software
+
+hardware - mouse , keyboard
+
+
+OS - Operating System
+
+1 Window 
+
+2 Andriod
+3 IOS
+
+4 Linux
+
+Russia , NK -- unknown
+
+
+
+Developer
+
+Moblie Phone 
+    Andriod Developer
+    Ios Developer
+
+
+Window 
+
+website dev
+
+Frontend - UI
+Backend -  User data Collect - sent to database 
+
+Frontend Developer
+Backend Developer
+Full Stack Developer - Frontend + Backend
+
+
+Website
+
+Kind of Website 
+
+1 Static Site (Read Only)
+2 Dynamic Site ( Read & Write )
+
+
+
+Web App 
+
+Shooping Center (online)
+Casher Small Computer
+
+
+About Our Course
+1 HTML
+2 CSS 
+3 JavaScript
+
+
+
+Coding Editor
+
+1 VS Code (Currently we use)
+
+
+About HTML 
+HTML is not programming Language...
+Hyper Text Markup Language 
+
+File Format 
+
+video name.mp4
+music name.mp3
+.txt 
+
+app name.apk
+
+.html - browser understand Language
+browser - chorme,fire fox ,opera , ......
